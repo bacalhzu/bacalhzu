@@ -1,10 +1,12 @@
 # Howdy! I'm Davi Bacalhau!
 
-### Welcome to my GitHub profile.
+### Welcome to my GitHub profile! 
 
 [![Davi Bacalhau's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlesekii&show_icons=true&theme=omni&include_all_commits=true)](https://github.com/littlesekii?tab=repositories)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlesekii&layout=compact&theme=omni)](https://github.com/littlesekii?tab=repositories)
+
+### wow look... is this is a [Cat](https://linky.cat) !?!?!?!?!?!?!?
 
 ## Social
 <div style="display: inline_block">
