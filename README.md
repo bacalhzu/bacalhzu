@@ -46,3 +46,14 @@
   <img align="center" alt="sekii-VisualStudio" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">
 </div>
 
+## Minhas Estatísticas:
+[![trophy](https://github-profile-trophy.vercel.app/?username=littlesekii&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+ <br>
+<div align="center">
+<br><p align="center"><b>Contador de Visitantes</b></p>  
+  <p align="center">desde 20/02/2024</p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{littlesekii}/count.svg" /></p> 
+<br></div>
+
