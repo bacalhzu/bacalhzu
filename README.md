@@ -2,9 +2,9 @@
 
 ### Welcome to my GitHub profile! 
 
-[![Davi Bacalhau's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlesekii&show_icons=true&theme=omni&include_all_commits=true)](https://github.com/littlesekii?tab=repositories)
+[![Davi Bacalhau's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacalhzu&show_icons=true&theme=omni&include_all_commits=true)](https://github.com/bacalhzu?tab=repositories)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlesekii&layout=compact&theme=omni)](https://github.com/littlesekii?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bacalhzu&layout=compact&theme=omni)](https://github.com/bacalhzu?tab=repositories)
 
 ### wow look... is this is a [Cat](https://linky.cat) !?!?!?!?!?!?!?
 
@@ -12,7 +12,7 @@
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/davi-domingos-bacalhau-592a9b191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.davibacalhau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <!-- <a href="https://www.twitch.tv/littlesekii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  -->
+  <!-- <a href="https://www.twitch.tv/bacalhzu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>  -->
 </div>
 
 ## Technology
@@ -47,13 +47,13 @@
 </div>
 
 ## Minhas Estatísticas:
-[![trophy](https://github-profile-trophy.vercel.app/?username=littlesekii&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bacalhzu&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
  <br>
 <div align="center">
 <br><p align="center"><b>Contador de Visitantes</b></p>  
   <p align="center">desde 20/02/2024</p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{littlesekii}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bacalhzu}/count.svg" /></p> 
 <br></div>
 
